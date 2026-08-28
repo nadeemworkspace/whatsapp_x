@@ -1,0 +1,45 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+
+# Xcode user-specific data
+xcuserdata/
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# iOS/macOS signing
+*.mobileprovision
+*.cer
+*.p12
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Environment / secrets
+.env
+.env.*
+
+xcuserdata/
+*.xcuserstate
